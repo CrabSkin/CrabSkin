@@ -1,120 +1,34 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portafolio de Análisis de Datos - Sebastián González</title>
-    <style>
-        body {
-            font-family: sans-serif;
-            margin: 20px;
-            line-height: 1.6;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        .container {
-            max-width: 960px;
-            margin: 0 auto;
-            background-color: #fff;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2, h3 {
-            color: #007bff;
-        }
-        .section {
-            margin-bottom: 30px;
-            padding-bottom: 20px;
-            border-bottom: 1px solid #eee;
-        }
-        .section:last-child {
-            border-bottom: none;
-        }
-        .skills ul {
-            list-style: none;
-            padding: 0;
-            display: flex;
-            gap: 15px;
-            flex-wrap: wrap;
-        }
-        .skills li {
-            background-color: #e9ecef;
-            color: #495057;
-            padding: 8px 15px;
-            border-radius: 5px;
-        }
-        .contact-info p {
-            margin: 5px 0;
-        }
-        .project-button {
-            display: inline-block;
-            background-color: #28a745;
-            color: white;
-            padding: 10px 20px;
-            text-decoration: none;
-            border-radius: 5px;
-            margin-top: 10px;
-        }
-        .project-button:hover {
-            background-color: #218838;
-        }
-        .social-links a {
-            display: inline-block;
-            margin-right: 10px;
-            color: #007bff;
-            text-decoration: none;
-        }
-        .social-links a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="section">
-            <h1>Sebastián González</h1>
-            <p>Licenciado en Psicología con una sólida base en análisis de datos. Mi enfoque se centra en extraer información valiosa y generar insights a partir de datos, utilizando herramientas como Excel, estadística, SQL, R, Tableau y Power BI. He completado el Google Data Analytics Certificate y estoy emocionado de aplicar mis habilidades en proyectos desafiantes.</p>
-        </div>
+# Data Analysis Portfolio - Sebastián González
 
-        <div class="section skills">
-            <h2>Habilidades</h2>
-            <h3>Puntos Fuertes:</h3>
-            <ul>
-                <li>Excel</li>
-                <li>Estadística</li>
-            </ul>
-            <h3>Otras Habilidades:</h3>
-            <ul>
-                <li>SQL</li>
-                <li>R</li>
-                <li>Tableau</li>
-                <li>Power BI</li>
-            </ul>
-            <h3>Certificaciones:</h3>
-            <ul>
-                <li>Google Data Analytics Certificate</li>
-            </ul>
-        </div>
+Hello! I'm Sebastián González, a professional with a strong foundation in data analysis and a Bachelor's degree in Psychology, originally from Caracas, Venezuela. My focus is on extracting valuable information and generating actionable insights from data.
 
-        <div class="section">
-            <h2>Proyectos Destacados</h2>
-            <p>Echa un vistazo a uno de mis proyectos de análisis de datos:</p>
-            <a href="URL_DE_TU_PROYECTO" class="project-button" target="_blank">Ver Proyecto de Análisis de Datos</a>
-        </div>
+## My Skills
 
-        <div class="section contact-info">
-            <h2>Contacto</h2>
-            <p>¡No dudes en contactarme!</p>
-            <p><strong>Email:</strong> <a href="mailto:sebagonz221@gmail.com">sebagonz221@gmail.com</a></p>
-            <p><strong>Ubicación:</strong> Caracas, Venezuela</p>
-        </div>
+**Strengths:**
 
-        <div class="section social-links">
-            <h2>Conéctate Conmigo</h2>
-            <a href="https://www.linkedin.com/in/sebagonz221/" target="_blank">LinkedIn</a>
-            <a href="https://public.tableau.com/app/profile/sebastian.gonzalez6731/vizzes" target="_blank">Tableau Public</a>
-        </div>
-    </div>
-</body>
-</html>
+* ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+* ![Statistics](https://img.shields.io/badge/Statistics-6C477D?style=for-the-badge)
+
+**Other Skills:**
+
+* ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+* ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+* ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+* ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
+**Certifications:**
+
+* ![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-0F9D58?style=for-the-badge&logo=google&logoColor=white)
+
+## Featured Project
+
+You can see one of my data analysis projects here: [LINK TO YOUR PROJECT](URL_DE_TU_PROYECTO)
+
+## Contact
+
+Feel free to contact me!
+
+* [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebagonz221@gmail.com)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebagonz221/) 
+* [![Tableau Public](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/sebastian.gonzalez6731/vizzes) 

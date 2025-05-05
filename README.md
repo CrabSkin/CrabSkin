@@ -6,7 +6,7 @@ Hello! I'm Sebastián González, a professional with a strong foundation in data
 
 **Strengths:**
 
-* ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+* ![Excel/Spreadsheats](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 * ![Statistics](https://img.shields.io/badge/Statistics-6C477D?style=for-the-badge)
 
 **Other Skills:**

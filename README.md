@@ -5,7 +5,7 @@ Hello! I'm Sebastián González, a professional with a strong foundation in data
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data Analysis</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Jojo´s Bizarre Adventure Stands Differences](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
 

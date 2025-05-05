@@ -5,8 +5,8 @@ Hello! I'm Sebastián González, a professional with a strong foundation in data
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data Analysis</b>
-  - [Jojo´s Bizarre Adventure Stands Differences](https://github.com/joshmadakor1/Algorithms-Practice)
-
+  - [Jojo´s Bizarre Adventure Stands Differences](https://github.com/CrabSkin/Jojo-s-Bizarre-Project)
+    
 <h2> 🤳 Connect with me:</h2>
 
 * [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebagonz221@gmail.com)

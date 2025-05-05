@@ -5,7 +5,8 @@ Hello! I'm Sebastián González, a professional with a strong foundation in data
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data Analysis</b>
-  - [Jojo´s Bizarre Adventure Stands Differences](https://github.com/CrabSkin/Jojo-s-Bizarre-Project)
+  - [Jojo´s Bizarre Project:](https://github.com/CrabSkin/Jojo-s-Bizarre-Project) A datanalysis of Jojo's stands. [![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql)](https://www.sql.org/)  [![Tableau](https://img.shields.io/badge/Tableau-orange?style=for-the-badge&logo=tableau)](https://www.tableau.com/) [![Spreadsheets](https://img.shields.io/badge/Spreadsheets-green?style=for-the-badge&logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
+
     
 <h2> 🤳 Connect with me:</h2>
 
